@@ -53,7 +53,7 @@ async def echo(bot, update):
             await update.reply_text(
                 text="**Join My Updates Channel to use ME 😎 🤭**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="Join My Updates Channel", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="Join My Updates Group", url=f"https://t.me/cyberwordk")]
               ])
             )
             return
