@@ -28,7 +28,7 @@
     },
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
-      "value": ""
+      "value": "15a7f9e4-5bfb-4cda-a300-e644a6bc0f49"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
@@ -40,7 +40,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "7351948 20516707 23122162 500346573"
+      "value": "1131653685"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
