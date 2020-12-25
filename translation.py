@@ -39,9 +39,13 @@ Telegram ID: <code>{}</code>
 <b>Follow these steps...<b>
 ➖➖➖➖➖➖➖➖➖➖
 1️⃣ Send url (Link|New Name with Extension).
+
         eg:- movielink|newname.mkv
+        
 2️⃣ Send Custom Thumbnail (Optional).
+
 3️⃣ Select the button.
+
     SVideo - Give File as video with Screenshots
     DFile  - Give File with Screenshots
     Video  - Give File as video without Screenshots
